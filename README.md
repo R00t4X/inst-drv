@@ -9,6 +9,7 @@
 ## 📥 Скачать
 ```powershell
 Invoke-WebRequest -Uri "https://example.com/Install-PrinterDrivers.ps1" -OutFile "Install-PrinterDrivers.ps1"
+```
 
 🌟 Особенности
 Поддержка всех форматов драйверов (INF, MSI, EXE)
